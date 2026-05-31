@@ -34,4 +34,6 @@ SemRel-Hausa-Project/
 6. Week5.ipynb
 
 ## Data and Model Files
-The following link is a link to the models that have been trained and saved to Google Drive
+The following link is a link to the models that have been trained and saved to Google Drive.
+[View project files](https://drive.google.com/drive/folders/1qtEguydUJeuLziIVw2DauZV-iDsUstdP?usp=sharing)
+
