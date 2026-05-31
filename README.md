@@ -6,6 +6,21 @@ It trains a variety of models using the SemRel database and shows the Spearman c
 Run the pip install -r requirements.txt to install specific versions needed
 
 ## Repository Structure
+SemRel-Hausa-Project/
+├── src/
+│   ├── load_data.py
+│   ├── preprocess.py
+│   ├── stats.py
+│   ├── NLP_Project_Week2_3.ipynb
+│   ├── CrossLingual.ipynb
+│   └── Week5.ipynb
+├── data/
+│   ├── english_train.csv
+│   ├── hausa_test.csv
+│   ├── hausa_train_clean.csv
+│   └── hausa_train.csv
+├── requirements.txt
+└── README.md
 
 ## Order to run Notebooks
 
