@@ -9,9 +9,9 @@ Run the pip install -r requirements.txt to install specific versions needed
 
 ## Order to run Notebooks
 
-1.Load the data by running  load_data.py
-2.Preprocess the data using preprocess.py 
-3.Get statistics to verify data is correctly preporccessed by running stats.py
+1. Load the data by running  load_data.py
+2. Preprocess the data using preprocess.py 
+3. Get statistics to verify data is correctly preporccessed by running stats.py
 4. NLP_Project_Week2_3.ipynb
 5. CrossLingual.ipynb
 6. Week5.ipynb
