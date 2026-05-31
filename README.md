@@ -8,6 +8,7 @@ Run the pip install -r requirements.txt to install specific versions needed
 ## Repository Structure
 
 ## Order to run Notebooks
+
 1.Load the data by running  load_data.py
 2.Preprocess the data using preprocess.py 
 3.Get statistics to verify data is correctly preporccessed by running stats.py
